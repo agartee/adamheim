@@ -5,10 +5,10 @@
 ## Settings
 
 ```
-Combat: Very hard
-Death penalty: Hardcore
+Combat: Hard
+Death penalty: Normal
 Resource rate: Normal
-Raid rate: Much more
+Raid rate: More
 Portals: No portals
 Player-based raids
 ```
